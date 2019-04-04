@@ -1,0 +1,263 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+
+
+
+
+.main {
+    width: 100%;
+    height: 100%;
+    background-color: #eb92b5;
+
+}
+
+.logol {
+
+    top: 10px;
+    left: 10px;
+    width: 35px;
+    height: 35px;
+    background-color: aqua;
+    position: relative;
+}
+
+.menu {
+    right: 10px;
+    top: 10px;
+    width: 15px;
+    height: 15px;
+    background-color: aqua;
+    position: absolute;
+}
+
+.hadar {
+    width: 30%;
+    height: 35%;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+
+    position: absolute;
+    margin: auto;
+    padding: 40px;
+}
+
+.aboutcon {
+    width: 100%;
+    overflow: auto;
+    background-color: blueviolet;
+}
+
+.techlab {
+
+    float: right;
+    width: 75%;
+    background-color: white;
+
+}
+.fix{
+    width: 20px;
+    height: 20px;
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+    position: fixed;
+    background-color: gray;
+}
+h1 {
+    margin: 0;
+    display: inline-block;
+}
+
+.marketcon {
+    width: 100%;
+    overflow: auto;
+}
+
+.market {
+    width: 30%;
+
+    margin: 8%;
+    float: left;
+}
+
+.logom {
+    width: 30%;
+
+    float: left;
+    margin: 8%;
+}
+
+.our {
+    width: 80%;
+    overflow: auto;
+    margin: auto;
+}
+.ourphil{
+    width: 30%;
+text-align: center;
+    float: left;
+    display: inline-block;
+}
+.clock{
+    width: 80%;
+    margin: auto;
+}
+.ghadi{
+    top:50px;
+    width: 40%;
+    margin: auto;
+    float: left;
+    margin: 20px;
+}
+.ghadi2{
+    top:10%;
+    width: 40%;
+    margin: auto;
+    float: left;
+    padding: 60px;
+}
+
+
+.color{
+    width: 50%;
+    height: 10px;
+    background-color: blueviolet;
+    float: left;
+}
+.color1{
+    width: 50%;
+    height: 10px;
+    background-color:  #d53296;
+    float: left;
+}
+
+.process {
+    width: 100%;
+    overflow: auto;
+    background-color: #d53296;
+    text-align: center;
+}
+
+.work {
+
+    float: left;
+    width: 75%;
+    background-color: white;
+    text-align: center;
+}
+.workmain{
+    width: 100%;
+    }
+.laptop{
+    float: left;
+}
+.research{
+background-color: white;
+    text-align: left;
+    padding: 90px;
+
+}
+.eventcon{
+    width: 100%;
+    text-align: left;
+    padding: 20px;
+    
+}
+.discussion{
+    text-align: left;
+width: 50%;
+    float: left;
+}
+.event{
+    float: right;
+    width: 50%;
+}
+
+.colors{
+    width: 50%;
+    height: 10px;
+    background-color: #fc7f23;
+    float: left;
+}
+.color2{
+    width: 50%;
+    height: 10px;
+    background-color:  #d53296;
+    float: left;
+}
+.servicemain {
+    width: 100%;
+    overflow: auto;
+    background-color:#fc7f23;
+    
+}
+
+.aenean {
+
+    float: right;
+    width: 75%;
+    background-color: white;
+
+}
+.ipsum{
+    width: 60%;
+    margin: auto;
+}
+.gwa{
+    width: 25%;
+    margin: auto;
+    margin: 20px;
+    float: left;
+    
+}
+.gwain{
+    
+    width: 50px;
+    height: 50px;
+    background-color: cornflowerblue;
+    margin: auto;
+}
+.colort{
+    width: 50%;
+    height: 10px;
+    background-color: #fc7f23;
+    float: left;
+}
+.color3{
+    width: 50%;
+    height: 10px;
+    background-color:  #d53296;
+    float: left;
+}
+
+.wor {
+    width: 100%;
+    overflow: auto;
+    background-color:#d53296;
+    
+}
+
+.vestibulum {
+
+    float: left;
+    width: 75%;
+    background-color: white;
+
+}
+.taxi1{
+    width: 40%;
+    height: 40;
+    float: left;
+}
+.taxi2{
+    width: 40%;
+    height: 40;
+    float: right;
+}
